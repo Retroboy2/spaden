@@ -270,6 +270,7 @@ a.button.disabled {
     background: #e2e6e9;
     color:#9ba8b1;
     background-image:none;
+    cursor: not-allowed;
 }
 button:not([disabled]):focus,
 a.icon:focus,
